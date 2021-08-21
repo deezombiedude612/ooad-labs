@@ -12,7 +12,7 @@ Ensure that you have gone through **Lecture 3: Requirements Determination** and 
 
 ## Hands-On Tasks
 
-### Task 1: Constructing a Data Flow Diagram from a Conext Diagram
+### Task 1: Constructing a Data Flow Diagram from a Context Diagram
 
 Produce a Level-0 Data Flow Diagram based on the given context diagram below.
 

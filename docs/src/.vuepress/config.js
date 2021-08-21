@@ -48,7 +48,19 @@ module.exports = {
 			{
 				title: "2021 August",
 				collapsable: false,
-				children: ["/lab01", "/lab02", "/lab03", "/lab04", "/lab05", "/lab06", "/lab07"],
+				children: [
+					"/lab01",
+					"/lab02",
+					"/lab03",
+					"/lab04",
+					"/lab05",
+					// "/lab06",
+					// "/lab07",
+					// "/lab08",
+					// "/lab09",
+					// "/lab10",
+					// "/lab11",
+				],
 			},
 			{
 				title: "Archive",
