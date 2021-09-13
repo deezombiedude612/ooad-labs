@@ -57,6 +57,11 @@ _You may need to make assumptions to show a complete diagram. (e.g., prompts on 
 
 ## Getting Started
 
-::: danger REMEMBER
-Data stores
+::: danger REMEMBER!
+A **data store** is data at rest.
+A data store may represent one of many different physical locations for data; for example, a file folder, one or more computer-based file(s), or a notebook.
+
+Basically, if one primarily stores data or information into an entity, it is regarded as a data store.
+Data stores are not shown in Context Diagrams.
+They are only shown in Data Flow Diagrams, which will be covered in the next practical session.
 :::
